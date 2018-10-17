@@ -1,0 +1,36 @@
+th, td {
+    border: 1px solid black;
+}
+
+tbody tr:nth-child(odd) {
+    background: gray;
+}
+
+thead {
+    font-size: 20px;
+}
+
+input {
+    display: none;
+}
+
+label {
+    display: none;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+}
+
+.clear {
+    display: none;
+}
+
+.light {
+    background: red;
+}
+
+.buy {
+    display: none;
+}
